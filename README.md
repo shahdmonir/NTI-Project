@@ -97,6 +97,7 @@ KPI	Value	What it means
 🔎 4) Pivot Tables (Detailed Analysis)
 
 Each Pivot Table below was built to answer a specific question:
+
    ****Pivot Tables 1 , 2 ****
 ![Pivot Tables 2](Pivot%20Tables%202.png)
 
@@ -122,6 +123,7 @@ Aggregates, for each Market (Europe, LATAM, Pacific Asia, Africa...), the total 
 Finding: Europe and LATAM have the highest total delay days and the highest sales at risk, while Africa has the lowest on both fronts — a clear positive correlation between delay volume and revenue exposure.
 
    ********Pivot Tables 3 , 4 ********
+   
     ![Pivot Tables 2](Pivot%20Tables1.png)
 
 
@@ -143,8 +145,10 @@ Breaks down all 152,705 orders by delivery status:
 Finding: exactly half of all orders arrive delayed — more than Early and On Time combined-adjacent figures.
 
 📌 Pivot 5: Sales at Risk by Country & Shipping Mode
+
    ********** Pivot Tables 3 *********
-       ![Pivot Tables 2](Pivot%20Tables%203.png)
+
+   ![Pivot Tables 2](Pivot%20Tables%203.png)
 The largest pivot in the project — breaks down sales at risk per country, cross-tabulated against the four shipping modes (First Class, Same Day, Second Class, Standard Class), plus a geographic map coloring countries by sales-at-risk exposure.
 
 Filterable via interactive Slicers:

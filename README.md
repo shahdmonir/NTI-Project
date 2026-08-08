@@ -146,6 +146,14 @@ Filterable via interactive Slicers:
 Finding: in Africa, for example, Nigeria, South Africa, and Sudan show the highest sales at risk.
 
 📈 5) The Final Interactive Dashboard
+         ## Dashboard Screenshot
+
+![Dashboard Screenshot](Dashboard.png)
+
+
+
+
+
 
 All the Pivot Tables above were consolidated into one interactive dashboard built in Power Pivot, containing:
 

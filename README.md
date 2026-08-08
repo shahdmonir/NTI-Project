@@ -124,7 +124,7 @@ Finding: Europe and LATAM have the highest total delay days and the highest sale
 
    ********Pivot Tables 3 , 4 ********
    
-    ![Pivot Tables 2](Pivot%20Tables1.png)
+   ![Pivot Tables 2](Pivot%20Tables1.png)
 
 
 📌 Pivot 3: Monthly Sales Trend

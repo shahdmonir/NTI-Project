@@ -143,7 +143,8 @@ Breaks down all 152,705 orders by delivery status:
 Finding: exactly half of all orders arrive delayed — more than Early and On Time combined-adjacent figures.
 
 📌 Pivot 5: Sales at Risk by Country & Shipping Mode
-
+   ********** Pivot Tables 3 *********
+       ![Pivot Tables 2](Pivot%20Tables%203.png)
 The largest pivot in the project — breaks down sales at risk per country, cross-tabulated against the four shipping modes (First Class, Same Day, Second Class, Standard Class), plus a geographic map coloring countries by sales-at-risk exposure.
 
 Filterable via interactive Slicers:

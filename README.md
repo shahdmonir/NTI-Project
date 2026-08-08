@@ -122,7 +122,7 @@ Aggregates, for each Market (Europe, LATAM, Pacific Asia, Africa...), the total 
 Finding: Europe and LATAM have the highest total delay days and the highest sales at risk, while Africa has the lowest on both fronts — a clear positive correlation between delay volume and revenue exposure.
 
    ********Pivot Tables 3 , 4 ********
-    ![Pivot Tables 2](Pivot%20Tables%201.png)
+    ![Pivot Tables 2](Pivot%20Tables1.png)
 
 
 📌 Pivot 3: Monthly Sales Trend

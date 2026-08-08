@@ -99,6 +99,9 @@ KPI	Value	What it means
 Each Pivot Table below was built to answer a specific question:
 
 📌 Pivot 1: Late Delivery Rate by Shipping Mode
+           
+
+        
 
 Shows each Shipping Mode (First Class, Same Day, Second Class, Standard Class) alongside its late delivery rate.
 
@@ -146,8 +149,7 @@ Filterable via interactive Slicers:
 Finding: in Africa, for example, Nigeria, South Africa, and Sudan show the highest sales at risk.
 
 📈 5) The Final Interactive Dashboard
-         ## Dashboard Screenshot
-
+         
 ![Dashboard Screenshot](Dashboard.png)
 
 

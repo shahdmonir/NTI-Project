@@ -97,6 +97,9 @@ KPI	Value	What it means
 🔎 4) Pivot Tables (Detailed Analysis)
 
 Each Pivot Table below was built to answer a specific question:
+   ****Pivot Tables 1 , 2 ****
+   ![Dashboard Screenshot](Pivot Tables 2.png)
+
 
 📌 Pivot 1: Late Delivery Rate by Shipping Mode
            
